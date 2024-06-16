@@ -110,3 +110,6 @@ local_settings.py
 
 # VS Code
 .vscode/
+
+# Ignore Project 5 training data (It is more than Git limit 100MB)
+Project 5/traffic-signs-data/train.p

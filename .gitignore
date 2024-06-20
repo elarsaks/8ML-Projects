@@ -113,3 +113,6 @@ local_settings.py
 
 # Ignore Project 5 training data (It is more than Git limit 100MB)
 Project 5/traffic-signs-data/train.p
+
+#Ignore csv files
+*.csv
